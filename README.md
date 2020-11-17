@@ -1,10 +1,10 @@
 # company_profile
 
-A new Flutter application.
+A new Flutter application for creating a Udemy company profile.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application to create a company profile app.
 
 A few resources to get you started if this is your first Flutter project:
 
